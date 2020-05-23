@@ -1,2 +1,2 @@
-# mind_tree
+# aspiraion_internship_ML
 solutions
